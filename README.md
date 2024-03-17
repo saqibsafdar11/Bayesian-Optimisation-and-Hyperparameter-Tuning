@@ -19,7 +19,7 @@ University admission data was evaluated to see if the chance of admission can be
 ![output](output.png)
 
 
-Admissions was positively correlated to a number of variables which include GRE Score, University Rading and SOP as can be seen by this graph which encompasses the findings through representing four dimensions of x-y axis, colour and size
+Admissions was positively correlated to a number of variables which include GRE (Graduate Record Examination) Score  , University Rating and SOP (statement of purpose) as can be seen by this graph which encompasses the findings through representing four dimensions of x-y axis, colour and size
 
 ![output](newplot.png)
 
