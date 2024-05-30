@@ -1,5 +1,5 @@
-# Bayesian Optimisation and Hyperparameter Tuning 
- Evaluate university admissions data to predict the chances of admission
+# Evaluate university admissions data to predict the chances of admission
+## Bayesian Optimisation and Hyperparameter Tuning 
 
 The aim of the project is to learn how to optimise machine learning hyperparameters using the following three strategies:
 - Grid Search
@@ -12,7 +12,7 @@ RandomizedSearchCV works by evaluating a select few numbers of random combinatio
 
 Bayesian optimization overcomes the drawbacks of random search algorithms by exploring search spaces in a more efficient manner. If a region in the search space appears to be promising , this region should be explored more which increases the chances of achieving better performance.
 
-Hyperparameter optization is a ket in developing machine learning project. After training multiple models, you would like to find tune them so they perform better on a given data set
+Hyperparameter optization is a ket in developing machine learning project. After training multiple models, we find tune them so they perform better on a given data set
 
 University admission data was evaluated to see if the chance of admission can be predicated. The following correlations were found:
 
@@ -39,7 +39,7 @@ Sections:
 - Key Findings:
 Of the three methods of hyperparameter tuning, Bayesian optimisation provided the best results.
 
-XG-Boost Algorithm Without Optimization: 66% accuracy
-Gridsearch Method : 83.8 % accuracy
-Random Search Method: 83.7% accuracy
-Bayesian Optimisation Method: 84.3% accuracy
+- XG-Boost Algorithm Without Optimization: 66% accuracy
+- Gridsearch Method : 83.8 % accuracy
+- Random Search Method: 83.7% accuracy
+- Bayesian Optimisation Method: 84.3% accuracy
