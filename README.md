@@ -39,7 +39,7 @@ Sections:
 - Key Findings:
 Of the three methods of hyperparameter tuning, Bayesian optimisation provided the best results.
 
-XG-Boost Algorithm Without Optimization: 66% accuracy
-Gridsearch Method : 83.8 % accuracy
-Random Search Method: 83.7% accuracy
-Bayesian Optimisation Method: 84.3% accuracy
+- XG-Boost Algorithm Without Optimization: 66% accuracy
+- Gridsearch Method : 83.8 % accuracy
+- Random Search Method: 83.7% accuracy
+- Bayesian Optimisation Method: 84.3% accuracy
