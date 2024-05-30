@@ -1,4 +1,4 @@
-# Evaluate university admissions data to predict the chances of admission
+# Evaluate University Admissions Data to Predict the Chances of Admission
 ## Bayesian Optimisation and Hyperparameter Tuning 
 
 The UCLA University Admission Data Set was evaluated to see if the chance of admission can be predicated.
