@@ -16,7 +16,7 @@ The dataset comprises instances representing individual student applications. Ea
 - Admission Status: Binary variable indicating whether the student was admitted (1) or not (0).
 
 ## Collection Process
-The data was collected from various sources, including university websites, online forums, and educational databases. The data was then cleaned and preprocessed to ensure consistency and accuracy.
+The data was collected from  UCLA Graduate University Admission Datasea. The data was then cleaned and preprocessed to ensure consistency and accuracy.
 
 ## Preprocessing/Cleaning/Labeling
 The following preprocessing steps were performed:
