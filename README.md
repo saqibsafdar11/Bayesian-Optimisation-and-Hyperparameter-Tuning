@@ -1,6 +1,8 @@
 # Evaluate university admissions data to predict the chances of admission
 ## Bayesian Optimisation and Hyperparameter Tuning 
 
+The UCLA University Admission Data Set was evaluated to see if the chance of admission can be predicated.
+
 The aim of the project is to learn how to optimise machine learning hyperparameters using the following three strategies:
 - Grid Search
 - Randomized Search
