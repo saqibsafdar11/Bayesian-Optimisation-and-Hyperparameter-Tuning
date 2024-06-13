@@ -1,4 +1,4 @@
-# Evaluate University Admissions Data to Predict the Chances of Admission
+# Evaluating University Admissions Data to Predict the Chances of Admission
 ## Bayesian Optimisation and Hyperparameter Tuning 
 
 The UCLA University Admission Data Set was evaluated to see if the chance of admission can be predicated. For further details on the data can be found on the [modelcard](https://github.com/saqibsafdar11/Evaluating-university-admissions-data-to-predict-the-chances-of-admission/blob/main/modelcard.md) and [datasheet](https://github.com/saqibsafdar11/Evaluating-university-admissions-data-to-predict-the-chances-of-admission/blob/main/Datasheet.md). Technical documentation of scripts used for model can be found in the [notebook](https://github.com/saqibsafdar11/Evaluating-university-admissions-data-to-predict-the-chances-of-admission/blob/main/Project%20Bayesian%20Optimization%20and%20Hyperparameters%20Tuning.ipynb)
